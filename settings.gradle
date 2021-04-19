@@ -1,0 +1,4 @@
+rootProject.name = 'qa-example'
+include 'web-ui'
+include 'rest-api'
+
